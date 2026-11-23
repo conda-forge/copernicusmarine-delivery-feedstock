@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.6.0"
+  version: "0.7.0"
 
 package:
   name: copernicusmarine-delivery
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/c/copernicusmarine-delivery/copernicusmarine_delivery-${{ version }}.tar.gz
-  sha256: ce76e90ab2d1faab092a1bd1e720a7a7ee7bd3c6c5cb3735526647c0bac0013b
+  sha256: 100cc780a39a1d3efe9cd5c22cf096cc68a5693b62d90ce21fcd02533a344d80
 
 build:
   number: 0
